@@ -33,6 +33,7 @@ B. Describe heap data structures and analyze heap components, such as arrays and
 
 C. Design basic algorithms to implement sorting, selection, and hash functions in heap data structures
 
+
 2. Course2: Trees and Graphs: Basics
 
 A. Define basic tree data structures and identify algorithmic functions associated with them
@@ -40,6 +41,7 @@ A. Define basic tree data structures and identify algorithmic functions associat
 B. Execute traversals and create graphs within a binary search tree structure
 
 C. Describe strongly connected components in graphs
+
 
 3. Course3: Dynamic Programming, Greedy Algorithms
 
